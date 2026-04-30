@@ -1,6 +1,6 @@
 # UC3843 Current-Mode Buck Converter — 2-Layer PCB
 
-![PCB Layout](docs/layout_top.png)
+![PCB Layout](docs/render.png)
 
 > **Status:** Design Complete  
 > **Tool:** Altium Designer | **PCB:** 2-Layer  
